@@ -2,7 +2,7 @@
 
 Click list item to display item details.
 
-Made in HTML5, CSS and Javascript.
+Done in HTML5, CSS and Javascript.
 
 CodePen: https://codepen.io/eliasgds/pen/NWxZpvN
 
