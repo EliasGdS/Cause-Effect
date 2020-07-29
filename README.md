@@ -6,6 +6,10 @@ CodePen: https://codepen.io/eliasgds/pen/NWxZpvN
 
 ## Preview
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/67754744/88863604-9ec46180-d1d9-11ea-9bd0-0fad2297c47e.gif">
+</p>
+
 ## Features
 
 - [x] User can see a list of person names arranged vertically in a summary pane on the page.
